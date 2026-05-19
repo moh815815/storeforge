@@ -1,2 +1,8 @@
-# storeforge
-Uploaded via GitHub ZIP Uploader
+# متجري الإلكتروني
+
+متجر إلكتروني أُنشئ بـ StoreForge
+
+## الملفات
+- index.html — الصفحة الرئيسية
+- style.css — الأنماط
+- store.js — منطق المتجر
